@@ -1,5 +1,5 @@
 
-const printHello = () => {
+const printHelloWorld = () => {
   console.log("hello world");
 }
 
